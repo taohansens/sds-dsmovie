@@ -1,4 +1,4 @@
-import MovieStars from 'components/MovieStars';
+import MovieStars from '../MovieStars';
 import './styles.css';
 
 export default function MovieScore() {
